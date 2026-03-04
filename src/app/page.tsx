@@ -58,13 +58,13 @@ export default function LandingPage() {
             testimonials={[
               {
                 name: "Rajesh M.",                handle: "Surgery Patient",                testimonial: "20+ Years Experience, 11,000+ Surgeries",                rating: 5,
-                imageSrc: "http://img.b2bpic.net/free-photo/happy-mature-woman-talking-her-doctor-medical-clinic_637285-9073.jpg"},
+                imageSrc: "http://img.b2bpic.net/free-photo/happy-mature-woman-talking-her-doctor-medical-clinic_637285-9073.jpg?_wi=1"},
               {
                 name: "Dr. Rakesh Sanol",                handle: "Lead Surgeon",                testimonial: "World-Class Procedures, Most Sterile Environment",                rating: 5,
-                imageSrc: "http://img.b2bpic.net/free-photo/portrait-confident-male-doctor-dressed-uniform_171337-1484.jpg"},
+                imageSrc: "http://img.b2bpic.net/free-photo/portrait-confident-male-doctor-dressed-uniform_171337-1484.jpg?_wi=1"},
               {
                 name: "Priya K.",                handle: "EMI Available",                testimonial: "Cashless Insurance & Easy Payment Options",                rating: 5,
-                imageSrc: "http://img.b2bpic.net/free-photo/happy-african-american-doctor-home-visit_637285-11276.jpg"},
+                imageSrc: "http://img.b2bpic.net/free-photo/happy-african-american-doctor-home-visit_637285-11276.jpg?_wi=1"},
             ]}
             testimonialRotationInterval={5000}
             useInvertedBackground={false}
@@ -100,7 +100,7 @@ export default function LandingPage() {
             useInvertedBackground={false}
             members={[
               {
-                id: "1",                name: "Dr. Rakesh Sanol",                role: "M.S. General & Laparoscopic Surgery, FMAS, FIAGES",                imageSrc: "http://img.b2bpic.net/free-photo/portrait-confident-male-doctor-dressed-uniform_171337-1484.jpg",                imageAlt: "Dr. Rakesh Sanol"},
+                id: "1",                name: "Dr. Rakesh Sanol",                role: "M.S. General & Laparoscopic Surgery, FMAS, FIAGES",                imageSrc: "http://img.b2bpic.net/free-photo/portrait-confident-male-doctor-dressed-uniform_171337-1484.jpg?_wi=2",                imageAlt: "Dr. Rakesh Sanol"},
             ]}
             gridVariant="uniform-all-items-equal"
             animationType="slide-up"
@@ -212,22 +212,22 @@ export default function LandingPage() {
             testimonials={[
               {
                 id: "1",                name: "Amit Patel",                role: "IT Professional",                company: "Tech Solutions",                rating: 5,
-                imageSrc: "http://img.b2bpic.net/free-photo/happy-mature-woman-talking-her-doctor-medical-clinic_637285-9073.jpg",                imageAlt: "Amit Patel testimonial"},
+                imageSrc: "http://img.b2bpic.net/free-photo/happy-mature-woman-talking-her-doctor-medical-clinic_637285-9073.jpg?_wi=2",                imageAlt: "Amit Patel testimonial"},
               {
                 id: "2",                name: "Priya Sharma",                role: "Entrepreneur",                company: "Fashion Designer",                rating: 5,
-                imageSrc: "http://img.b2bpic.net/free-photo/happy-african-american-doctor-home-visit_637285-11276.jpg",                imageAlt: "Priya Sharma testimonial"},
+                imageSrc: "http://img.b2bpic.net/free-photo/happy-african-american-doctor-home-visit_637285-11276.jpg?_wi=2",                imageAlt: "Priya Sharma testimonial"},
               {
                 id: "3",                name: "Rajesh Kumar",                role: "Business Owner",                company: "Manufacturing",                rating: 5,
-                imageSrc: "http://img.b2bpic.net/free-photo/happy-mature-woman-talking-her-doctor-medical-clinic_637285-9073.jpg",                imageAlt: "Rajesh Kumar testimonial"},
+                imageSrc: "http://img.b2bpic.net/free-photo/happy-mature-woman-talking-her-doctor-medical-clinic_637285-9073.jpg?_wi=3",                imageAlt: "Rajesh Kumar testimonial"},
               {
                 id: "4",                name: "Neha Desai",                role: "Healthcare Worker",                company: "Hospital Staff",                rating: 5,
-                imageSrc: "http://img.b2bpic.net/free-photo/happy-mature-woman-talking-her-doctor-medical-clinic_637285-9073.jpg",                imageAlt: "Neha Desai testimonial"},
+                imageSrc: "http://img.b2bpic.net/free-photo/happy-mature-woman-talking-her-doctor-medical-clinic_637285-9073.jpg?_wi=4",                imageAlt: "Neha Desai testimonial"},
               {
                 id: "5",                name: "Vikram Singh",                role: "Teacher",                company: "Education Sector",                rating: 5,
-                imageSrc: "http://img.b2bpic.net/free-photo/happy-mature-woman-talking-her-doctor-medical-clinic_637285-9073.jpg",                imageAlt: "Vikram Singh testimonial"},
+                imageSrc: "http://img.b2bpic.net/free-photo/happy-mature-woman-talking-her-doctor-medical-clinic_637285-9073.jpg?_wi=5",                imageAlt: "Vikram Singh testimonial"},
               {
                 id: "6",                name: "Deepa Nair",                role: "Corporate Executive",                company: "Finance",                rating: 5,
-                imageSrc: "http://img.b2bpic.net/free-photo/happy-mature-woman-talking-her-doctor-medical-clinic_637285-9073.jpg",                imageAlt: "Deepa Nair testimonial"},
+                imageSrc: "http://img.b2bpic.net/free-photo/happy-mature-woman-talking-her-doctor-medical-clinic_637285-9073.jpg?_wi=6",                imageAlt: "Deepa Nair testimonial"},
             ]}
             gridVariant="uniform-all-items-equal"
             animationType="slide-up"
